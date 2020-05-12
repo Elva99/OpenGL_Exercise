@@ -4,7 +4,7 @@
 //
 //  Created by ELVA on 2020-05-12.
 //  Copyright © 2020 ELVA. All rights reserved.
-//
+//  This program create a new window with red background using c++
 
 #include <iostream>
 
