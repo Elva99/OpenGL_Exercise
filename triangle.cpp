@@ -4,6 +4,7 @@
 //
 //  Created by ELVA on 2020-05-12.
 //  Copyright © 2020 ELVA. All rights reserved.
+//  draw a triangle
 //
 
 #include <iostream>
